@@ -8,4 +8,6 @@ https://github.com/tyrasd/overpass-turbo
 
 data is found in the russia-jsons.zip file (includes original cyrillic names and transliterated names)
 
+main.py was used to transliterate
+
 Total time spent: ~200 hours
