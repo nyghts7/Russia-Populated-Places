@@ -1,0 +1,1 @@
+{"cities":[{"name":"Sankt-Peterburg","state":"Saint Petersburg","territory":"","country":"Russia","latitude":59.9179,"longitude":30.3053,"population":4879566,"stateCapital":false,"nationalCapital":false,"pk":null,"quiz":"asia","code":null,"archived":false,"percentageOfSessions":null}],"startTimeMs":0}
