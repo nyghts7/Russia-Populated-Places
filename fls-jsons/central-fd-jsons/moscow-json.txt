@@ -1,0 +1,1 @@
+{"cities":[{"name":"Moskva","state":"Moscow (City)","territory":"","country":"Russia","latitude":55.7505412,"longitude":37.6174782,"population":11747702,"stateCapital":true,"nationalCapital":true,"pk":null,"quiz":"asia","code":null,"archived":false,"percentageOfSessions":null}],"startTimeMs":0}
